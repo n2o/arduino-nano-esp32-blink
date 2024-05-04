@@ -1,0 +1,8 @@
+{
+  "sketch": "blink/blink.ino",
+  "output": "build/",
+  "configuration": "PartitionScheme=default,PinNumbers=default,USBMode=default",
+  "board": "arduino:esp32:nano_nora",
+  "programmer": "esptool",
+  "port": "/dev/tty.usbmodemECDA3B60211C2"
+}
